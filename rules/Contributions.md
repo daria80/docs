@@ -17,4 +17,6 @@ Create a thematic branch from the master branch. Then fix your changes in the pr
 ## 3.
 Now, if we go to the page of our copy on GitHub, we will see that GitHub noticed our changes and offers to open the merge request using the big green button.
 #
-![alt text](https://sun1-87.userapi.com/A449fZ2QaSAU-aRDFPcWCiDnPJpdP_2o0vRMcw/aRmlgc3TY7Y.jpg "Your thematic branch")
+![alt text](https://sun1-87.userapi.com/A449fZ2QaSAU-aRDFPcWCiDnPJpdP_2o0vRMcw/aRmlgc3TY7Y.jpg "Request")
+## 4.
+![alt text](https://sun1-17.userapi.com/cXGCbbpW5MAWgB96zc2LTJHZYlRS_QLGTUSjiQ/R21-VksfYqs.jpg "Create pull request")
