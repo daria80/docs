@@ -22,6 +22,6 @@ Now, if we go to the page of our copy on GitHub, we will see that GitHub noticed
 If you click on this button, a field will appear to describe the proposed changes for consideration by the project owner. It is recommended to seriously approach the compilation of the description and make it as informative as possible so that the project owner understands why these changes and what benefits they will bring.
 #
 ![alt text](https://sun1-17.userapi.com/cXGCbbpW5MAWgB96zc2LTJHZYlRS_QLGTUSjiQ/R21-VksfYqs.jpg "Create pull request")
-## 4.
+## 5.
 #
 After creating a merge request (by clicking the "Create pull request" button on this page), the owner of the forked project will receive a notification of the proposed changes with a link to the request information page.
