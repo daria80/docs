@@ -23,5 +23,4 @@ If you click on this button, a field will appear to describe the proposed change
 #
 ![alt text](https://sun1-17.userapi.com/cXGCbbpW5MAWgB96zc2LTJHZYlRS_QLGTUSjiQ/R21-VksfYqs.jpg "Create pull request")
 ## 5.
-#
 After creating a merge request (by clicking the "Create pull request" button on this page), the owner of the forked project will receive a notification of the proposed changes with a link to the request information page.
