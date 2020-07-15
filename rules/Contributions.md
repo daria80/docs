@@ -16,3 +16,4 @@ Create a thematic branch from the master branch. And fix your changes in the pro
 ![alt text](https://sun1-24.userapi.com/mfL0g0Hz-9r7m58w58oRHAhzz_BxQYBD5I3kJg/UefW8KopdPg.jpg "Your thematic branch")
 ## 3.
 Submit a new branch to our copy on GitHub
+![alt text](https://sun1-87.userapi.com/A449fZ2QaSAU-aRDFPcWCiDnPJpdP_2o0vRMcw/aRmlgc3TY7Y.jpg "Your thematic branch")
